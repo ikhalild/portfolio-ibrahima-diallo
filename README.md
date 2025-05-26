@@ -32,13 +32,29 @@ This portfolio is hosted via GitHub Pages at:
 
 ## 📘 Research Support
 
-As part of my academic and professional journey, I've actively contributed to research and academic supervision in several ways:
+As part of my academic and mentoring responsibilities, I have provided guidance and methodological support for various research projects and theses, including:
 
-- **Thesis Supervision:** Guided a master's student on customer churn modeling in the telecom industry using decision trees and logistic regression in R.
-- **Field Research Support:** Assisted teams working on education, health, and nutrition surveys across West Africa using tools like SurveyCTO, KoboToolbox, and DHIS2.
-- **Mentorship in Data Science:** Supported peers and young professionals in building dashboards, conducting EDA, and deploying models for capstone projects.
+- **🎓 Personal Master's Thesis**: _Credit Risk Management of Corporate Loans in Senegal (UGB)_  
+  ➤ Estimated corporate credit risk using a binomial logit model and developed data-driven recommendations.
 
-These activities reflect my commitment to applied research and capacity building in data science, economics, and monitoring & evaluation.
+- **📘 Supervised Theses (UGB)**  
+  - _Impact of COVID-19 on Bank Credit_: Regression-based analysis using OLS.  
+  - _External Debt and Economic Growth_: Econometric modeling of debt-growth dynamics.
+
+- **🌊 Environmental Economics**: _Estimation of bycatch of sea turtles and seabirds_  
+  ➤ Guided empirical analysis using logit models and supported final reporting.
+
+- **📡 Telecom Sector Support**:  
+  - _Customer Retention in Sonatel's Fiber Services_: Strategic and data-driven recommendations based on SWOT & PESTEL.  
+  - _Customer Churn Analysis_: Applied the C5.0 algorithm for churn prediction and provided methodological advice.
+
+- **🚨 Customs Fraud Detection (UGB)**:  
+  ➤ Supervised an OLS-based predictive model to detect customs declaration fraud.
+
+- **📊 Independent Research**:  
+  _Comparative Analysis of Poverty (Senegal 2006 & 2011)_ using binomial and multinomial logit models to explore the determinants of subjective vs. monetary poverty.
+
+These research activities reflect my commitment to capacity building, econometric modeling, and evidence-based policy guidance.
 
 
 ## 📌 License
