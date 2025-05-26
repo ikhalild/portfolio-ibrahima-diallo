@@ -30,6 +30,17 @@ This portfolio is hosted via GitHub Pages at:
 - **Languages:** Python, R, STATA, SQL, CSS, HTML  
 - **Frameworks & Tools:** Django, Streamlit, GitHub, Power BI, LaTeX, DHIS2 API, KoboToolbox, SurveyCTO, Survey Solutions
 
+## 📘 Research Support
+
+As part of my academic and professional journey, I've actively contributed to research and academic supervision in several ways:
+
+- **Thesis Supervision:** Guided a master's student on customer churn modeling in the telecom industry using decision trees and logistic regression in R.
+- **Field Research Support:** Assisted teams working on education, health, and nutrition surveys across West Africa using tools like SurveyCTO, KoboToolbox, and DHIS2.
+- **Mentorship in Data Science:** Supported peers and young professionals in building dashboards, conducting EDA, and deploying models for capstone projects.
+
+These activities reflect my commitment to applied research and capacity building in data science, economics, and monitoring & evaluation.
+
+
 ## 📌 License
 
 This project is open source and free to use for showcasing or inspiration. Feel free to clone and build your own.
